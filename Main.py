@@ -47,8 +47,8 @@ class ChromeTabOpener(VirusCore):
 
 def main():
     pass
-    virus = VirusCore("testing virus")
-    virus.multiply_in_dms("mul1","mul2")
+    //virus = VirusCore("testing virus")
+    //virus.multiply_in_dms("mul1","mul2")
 
 
 
