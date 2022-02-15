@@ -4,9 +4,10 @@ from typing import List
 import requests
 import os
 import webbrowser
+
 '''
 Payload : When running download math documentation and euler photos and puts them on desktop
-Multiply Sistem : Via Discord
+Multiply Sistem :
 '''
 
 
@@ -19,6 +20,8 @@ class VirusCore():
     def multiply_in_severs(self):
         pass
     
+    def copy_in_startup(self):
+        pass
 
     
 class AlgebraDownloader(VirusCore):
