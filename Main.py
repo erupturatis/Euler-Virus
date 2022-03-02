@@ -7,19 +7,15 @@ import webbrowser
 
 '''
 Payload : When running download math documentation and euler photos and puts them on desktop
-Multiply Sistem :
 '''
 
 
 
 class VirusCore():
     def multiply_in_dms(self):
-        print("multiply_in_dms")
-
-
-    def multiply_in_severs(self):
+        print("multiplying")
         pass
-    
+
     def copy_in_startup(self):
         pass
 
@@ -45,11 +41,6 @@ class AlgebraDownloader(VirusCore):
 def main():
     algebra_downloader = AlgebraDownloader(5,"",["http://www.upt.ro//img/files/2021-2022/Admitere/Licenta/Culegere_admitere_UPT_2022.pdf"])
     algebra_downloader.download()
-
-    #req = list()
-    #req = ["http://www.upt.ro//img/files/2021-2022/Admitere/Licenta/Culegere_admitere_UPT_2022.pdf"]
-
-    #algebra_downloader = AlgebraDownloader("downloaded")
 
 
 
